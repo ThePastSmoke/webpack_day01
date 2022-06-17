@@ -1,0 +1,1 @@
+export const marquee = () => console.log('我是轮播图逻辑')
